@@ -1,2 +1,2 @@
 # personal-finance-analysis
-Designed and developed an interactive Excel dashboard to track, analyze, and forecast personal income and spending patterns. Leveraged formulas, PivotTables, charts, and conditional formatting to visualize monthly trends, compare actual vs. projected expenses, and identify opportunities to optimize savings.
+Designed and developed an interactive Excel dashboard to track, analyze, and forecast personal income and spending patterns. Leveraged formulas, PivotTables, charts, and conditional formatting to visualize monthly trends, compare actual vs. projected expenses, and identify opportunities to optimize savings. Implemented data-driven projections to plan future budgets and improve financial decision-making.
